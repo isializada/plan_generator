@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>de.alizada</groupId>
-	<artifactId>plan-generator</artifactId>
+	<artifactId>loan</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>plan-generator</name>
 	<description>Plan Generator for Loan</description>
